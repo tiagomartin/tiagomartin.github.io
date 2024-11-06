@@ -1,0 +1,11 @@
+---
+title: "Tiago Pereira"
+---
+
+-   Professor do Departamento de Estatística da Universidade Federal de Ouro Preto
+
+-   Doutor em Estatística e Experimentação Agropecuária - Universidade Federal de Lavras (2014)
+
+-   Mestre em Estatística Aplicada e Biometria - Universidade Federal de Viçosa (2008)
+
+-   Bacharel em Ciência da Computação - Universidade Federal de Viçosa (2007)

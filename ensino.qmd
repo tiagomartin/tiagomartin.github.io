@@ -1,0 +1,11 @@
+---
+title: "Ensino"
+---
+
+-   EST014 - Estatística Multivariada I
+
+-   [EST125 - Introdução à Mineração de Dados](https://www.dataimd.com/)
+
+-   [EST104 - Estatística Aplicada à Saúde](https://tiagomartin.github.io/est104/index.html)
+
+-   EST202 - Estatística e Probabilidade
