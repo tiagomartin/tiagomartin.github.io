@@ -12,7 +12,7 @@ website:
       - text: "Ensino"
         href: ensino.qmd
       - text: "Contato"
-        href: about.qmd
+        href: contato.qmd
 
 lang: pt
 
