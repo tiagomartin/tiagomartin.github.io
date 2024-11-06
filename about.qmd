@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Contato"
 ---
 
-About this site
+Se quiser entrar em contato comigo, favor enviar email para tiago.martin@ufop.edu.br

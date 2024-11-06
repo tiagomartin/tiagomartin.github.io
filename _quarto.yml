@@ -11,7 +11,8 @@ website:
         href: index.qmd
       - text: "Ensino"
         href: ensino.qmd
-      - about.qmd 
+      - text: "Contato"
+        href: about.qmd
 
 lang: pt
 
