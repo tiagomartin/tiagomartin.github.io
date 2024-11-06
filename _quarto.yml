@@ -1,0 +1,25 @@
+project:
+  type: website
+
+website:
+  title: "Prof.Tiago Pereira"
+  navbar:
+    background: primary
+    search: true
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Ensino"
+        href: ensino.qmd
+      - about.qmd 
+
+lang: pt
+
+format:
+  html:
+    theme: sandstone
+    css: styles.css
+    toc: true
+    
+execute:
+  freeze: true

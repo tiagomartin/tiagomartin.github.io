@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Tiago Pereira",
+    "section": "",
+    "text": "Professor do Departamento de Estatística da Universidade Federal de Ouro Preto\nDoutor em Estatística e Experimentação Agropecuária - Universidade Federal de Lavras (2014)\nMestre em Estatística Aplicada e Biometria - Universidade Federal de Viçosa (2008)\nBacharel em Ciência da Computação - Universidade Federal de Viçosa (2007)"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "ensino.html",
+    "href": "ensino.html",
+    "title": "Ensino",
+    "section": "",
+    "text": "EST014 - Estatística Multivariada I\nEST125 - Introdução à Mineração de Dados\nEST104 - Estatística Aplicada à Saúde\nEST202 - Estatística e Probabilidade"
+  }
+]
