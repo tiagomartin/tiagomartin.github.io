@@ -4,7 +4,7 @@ title: "Ensino"
 
 -   EST014 - Estatística Multivariada I
 
--   [EST014 - Estatística Multivariada II](https://tiagomartin.github.io/est022/index.html)
+-   [EST022 - Estatística Multivariada II](https://tiagomartin.github.io/est022/index.html)
 
 -   [EST125 - Introdução à Mineração de Dados](https://tiagomartin.github.io/est125/index.html)
 
