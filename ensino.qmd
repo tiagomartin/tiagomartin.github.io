@@ -2,6 +2,13 @@
 title: "Ensino"
 ---
 
+
+## 2025/2
+
+-   [EST014 - Estatística Multivariada I](https://tiagomartin.github.io/est014/index.html)
+
+-   EST202 - Estatística e Probabilidade
+
 ## 2025/1
 
 -   [EST022 - Estatística Multivariada II](https://tiagomartin.github.io/est022/index.html)
