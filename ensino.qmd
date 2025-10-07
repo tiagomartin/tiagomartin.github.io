@@ -11,13 +11,19 @@ title: "Ensino"
 
 ## 2025/1
 
--   [EST022 - Estatística Multivariada II](https://tiagomartin.github.io/est022/index.html)
+- EST022 - Estatística Multivariada II
 
--   [EST125 - Introdução à Mineração de Dados](https://tiagomartin.github.io/est125/index.html)
+- EST125 - Introdução à Mineração de Dados
+
+<!-- -   [EST022 - Estatística Multivariada II](https://tiagomartin.github.io/est022/index.html) -->
+
+<!-- -   [EST125 - Introdução à Mineração de Dados](https://tiagomartin.github.io/est125/index.html) -->
 
 ## 2024/2
 
--   [EST104 - Estatística Aplicada à Saúde](https://tiagomartin.github.io/est104/index.html)
+- EST104 - Estatística Aplicada à Saúde
+
+<!-- -   [EST104 - Estatística Aplicada à Saúde](https://tiagomartin.github.io/est104/index.html) -->
 
 -   EST014 - Estatística Multivariada I
 
